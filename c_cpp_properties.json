@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "D:/Dev C++/Dev-Cpp/MinGW64/include/**",
+                "D:/Dev C++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++",
+                "D:/Dev C++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++/x86_64-w64-mingw32",
+                "D:/Dev C++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++/backward",
+                "D:/Dev C++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.7.1/include",
+                "D:/Dev C++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.7.1/include-fixed",
+                "D:/Dev C++/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+    //路径要修改
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/Dev C++/Dev-Cpp/MinGW64/bin/gcc.exe",//路径要修改
+            "cStandard": "c99",
+            "cppStandard": "c++98",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
