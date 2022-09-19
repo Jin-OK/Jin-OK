@@ -5,8 +5,8 @@
             "name": "(gdb) 启动",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
-            "args": [],
+            "program": "C:\\Windows\\System32\\cmd.exe",
+            "args": ["/C","${fileDirname}\\${fileBasenameNoExtension}.exe","&","pause"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}\\",//指默认文件操作的目录（如fopen的默认寻找位置），现在是c文件的目录，修改为${workspaceFolder}就是工作文件夹目录
             "environment": [],
