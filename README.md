@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jin-OK
+- 👀 I’m interested in Programming and creating videos
+- 🌱 I’m currently learning Various programming languages and video clips
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach my email is daxueyoujian2021@163.com
