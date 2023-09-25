@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Jin-OK
-- 👀 I’m interested in Programming and creating videos
-- 🌱 I’m currently learning Various programming languages and video clips
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach my email is daxueyoujian2021@163.com
+1、这些配置文件是C语言程序在VS code上的配置文件，阁下只需要将其git clone到本地，然后在工作区建立相应的文件，将刚才的文件夹复制过去！
+2、此处需要填写一个WinGW32，如果不知道怎么下载就直接下载dev C++，然后安装路径自己选，里面就有对应的WinGW32.
+3、此配置只适合用于Windows平台。
